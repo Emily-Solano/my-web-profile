@@ -57,7 +57,7 @@ const ES = {
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "Actualmente estoy formándome en programación web, con conocimientos en el desarrollo de páginas y sitios web, desde la estructura y el diseño hasta la lógica de programación.",
-  "edu.2.title": "Tecnico Profesional en Programación Web",
+  "edu.2.title": "Técnico Profesional en Programación Web",
   "edu.2.text":  "Durante mi formación aprendí a programar con el framework Laravel, con el que creé y diseñé varias páginas web, fortaleciendo mis habilidades de codificación y desarrollo.",
 
   "exp.1.title": "Práctica en desarrollo web",
@@ -97,7 +97,7 @@ const EN = {
   "about.text":           "I'm studying systems engineering. I enjoy programming and learning new things, so I hope to learn a lot.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "Colombia",
+  "about.valueLocation":  "",
   "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
   "about.valueLanguages": "Spanish (native) · English (B1)",
@@ -123,9 +123,9 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "I am learning web programming, mostly about everything related to web page development.",
+  "edu.1.text":  "I am studying web programming and learning to build websites.",
   "edu.2.title": "Professional Technician in Web Programming",
-  "edu.2.text":  "I learned a lot about coding using the Laravel framework, creating and designing some pages",
+  "edu.2.text":  "During my studies, I built several web pages with the Laravel framework and strengthened my coding skills.",
 
   "exp.1.title": "Web Development Practice",
   "exp.1.text":  "No formal work experience. I developed web pages locally using PHP in Visual Studio Code, practicing website creation and strengthening my programming fundamentals.",
