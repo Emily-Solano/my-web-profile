@@ -56,22 +56,18 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "Estoy aprendiendo programación web, se mayormente sobre todo aquello que tenga que ver con el desarrollo de páginas web.",
+  "edu.1.text":  "Actualmente estoy formándome en programación web, con conocimientos en el desarrollo de páginas y sitios web, desde la estructura y el diseño hasta la lógica de programación.",
   "edu.2.title": "Tecnico Profesional en Programación Web",
-  "edu.2.text":  "Aprendí mucho sobre el codificación usando el framework de Laravel, creando y diseñando algunas páginas",
+  "edu.2.text":  "Durante mi formación aprendí a programar con el framework Laravel, con el que creé y diseñé varias páginas web, fortaleciendo mis habilidades de codificación y desarrollo.",
 
-  "exp.1.title": "",
-  "exp.1.text":  "",
-  "exp.2.title": "",
-  "exp.2.text":  "",
+  "exp.1.title": "Práctica en desarrollo web",
+  "exp.1.text":  "Sin experiencia laboral formal. Desarrollé páginas web de forma local con PHP en Visual Studio Code, practicando la creación de sitios web y fortaleciendo mis bases en programación.",
+
 
   "portfolio.title": "Proyectos",
   "project.1.title": "",
   "project.1.text":  "",
-  "project.2.title": "",
-  "project.2.text":  "",
-  "project.3.title": "",
-  "project.3.text":  "",
+ 
 
   
 
@@ -129,20 +125,16 @@ const EN = {
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "I am learning web programming, mostly about everything related to web page development.",
   "edu.2.title": "Professional Technician in Web Programming",
-  "edu.2.text":  "Aprendí mucho sobre el codificación usando el framework de Laravel, creando y diseñando algunas páginas",
+  "edu.2.text":  "I learned a lot about coding using the Laravel framework, creating and designing some pages",
 
-  "exp.1.title": "",
-  "exp.1.text":  "",
-  "exp.2.title": "",
-  "exp.2.text":  "",
+  "exp.1.title": "Web Development Practice",
+  "exp.1.text":  "No formal work experience. I developed web pages locally using PHP in Visual Studio Code, practicing website creation and strengthening my programming fundamentals.",
+  
 
   "portfolio.title": "Projects",
   "project.1.title": "",
   "project.1.text":  "",
-  "project.2.title": "",
-  "project.2.text":  "",
-  "project.3.title": "",
-  "project.3.text":  "",
+ 
 
 
 
