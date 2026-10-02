@@ -27,9 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "Estudio ingenieria en sistemas.
-                          Me gusta la programación e innovar con ella.
-                          Busco poder aprender lo más que pueda.",
+  "about.text":           "Estudio ingeniería en sistemas. Me gusta programar y aprender varias cosas nuevas, por eso espero aprender mucho",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Espinal, Colombia",
