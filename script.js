@@ -30,10 +30,10 @@ const ES = {
   "about.text":           "Estudio ingeniería en sistemas. Me gusta programar y aprender varias cosas nuevas, por eso espero aprender mucho",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "Espinal, Colombia",
+  "about.valueLocation":  "",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
+  "about.valueLanguages": "Español (nativo) · Inglés (B1)",
   "about.labelStatus":    "Disponibilidad",
   "about.valueStatus":    "Abierto a prácticas",
   "about.interestsTitle": "Intereses",
@@ -56,29 +56,26 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.1.text":  "Estoy aprendiendo programación web, se mayormente sobre todo aquello que tenga que ver con el desarrollo de páginas web.",
+  "edu.2.title": "Tecnico Profesional en Programación Web",
+  "edu.2.text":  "Aprendí mucho sobre el codificación usando el framework de Laravel, creando y diseñando algunas páginas",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "",
+  "exp.1.text":  "",
+  "exp.2.title": "",
+  "exp.2.text":  "",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
-  "project.2.title": "[Nombre del proyecto]",
-  "project.2.text":  "[Tecnologías usadas]",
-  "project.3.title": "[Nombre del proyecto]",
-  "project.3.text":  "[Tecnologías usadas]",
+  "project.1.title": "",
+  "project.1.text":  "",
+  "project.2.title": "",
+  "project.2.text":  "",
+  "project.3.title": "",
+  "project.3.text":  "",
 
-  "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
-  "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Emily Solano · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -104,7 +101,7 @@ const EN = {
   "about.text":           "I'm studying systems engineering. I enjoy programming and learning new things, so I hope to learn a lot.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "[City], Colombia",
+  "about.valueLocation":  "Colombia",
   "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
   "about.valueLanguages": "Spanish (native) · English ([your level])",
@@ -130,29 +127,26 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.1.text":  "I am learning web programming, mostly about everything related to web page development.",
+  "edu.2.title": "Professional Technician in Web Programming",
+  "edu.2.text":  "Aprendí mucho sobre el codificación usando el framework de Laravel, creando y diseñando algunas páginas",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "",
+  "exp.1.text":  "",
+  "exp.2.title": "",
+  "exp.2.text":  "",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
-  "project.2.title": "[Project name]",
-  "project.2.text":  "[Technologies used]",
-  "project.3.title": "[Project name]",
-  "project.3.text":  "[Technologies used]",
+  "project.1.title": "",
+  "project.1.text":  "",
+  "project.2.title": "",
+  "project.2.text":  "",
+  "project.3.title": "",
+  "project.3.text":  "",
 
-  "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
-  "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+
+  "footer.note": "Emily Solano · Professional Technician in Web Programming · UniEspinal"
 };
 
 
