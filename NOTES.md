@@ -1,7 +1,7 @@
 # Translation Notes
 
-**Student:** [Emily Solano]
-**Course:** [Inglés I / Inglés II]
+**Student:** Emily Solano
+**Course:** [Inglés II]
 **Date:** [dd/mm/yyyy]
 
 ---
@@ -31,7 +31,7 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
+> In Spanish I wrote that I know "from structure and design to programming logic". In English I left that part out and wrote a shorter sentence. The list sounded too long in English, so I kept only the main idea.
 
 ---
 
@@ -40,7 +40,7 @@ in your English version. Explain why you removed it.
 Name **one technical term** that you kept in English in both versions.
 Explain why translating it would be a bad idea.
 
-> [Write 2–4 sentences in English.]
+> I kept "framework" and "Laravel" in English in both versions. These are the words developers use all over the world, so translating them would sound strange.
 
 ---
 
@@ -50,11 +50,11 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish: Durante mi formación aprendí a programar con el framework Laravel, con el que creé y diseñé varias páginas web, fortaleciendo mis habilidades de codificación y desarrollo.
 >
-> English: [copy your sentence here]
+> English: During my studies, I built several web pages with the Laravel framework and strengthened my coding skills.
 >
-> [Write 2–4 sentences in English explaining the change.]
+> A word-by-word translation was too long and sounded unnatural. I used the action verb "built" and removed the extra phrase at the end. English profiles are shorter and focus on what you did.
 
 ---
 
