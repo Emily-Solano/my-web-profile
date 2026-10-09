@@ -1,8 +1,8 @@
 # Translation Notes
 
 **Student:** Emily Solano
-**Course:** [Inglés II]
-**Date:** [dd/mm/yyyy]
+**Course:** Inglés II
+**Date:** 9/10/2026
 
 ---
 
@@ -51,9 +51,9 @@ version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
 > Spanish: Durante mi formación aprendí a programar con el framework Laravel, con el que creé y diseñé varias páginas web, fortaleciendo mis habilidades de codificación y desarrollo.
->
+
 > English: During my studies, I built several web pages with the Laravel framework and strengthened my coding skills.
->
+
 > A word-by-word translation was too long and sounded unnatural. I used the action verb "built" and removed the extra phrase at the end. English profiles are shorter and focus on what you did.
 
 ---
@@ -64,19 +64,16 @@ You may use dictionaries, translators and AI tools. But you must say so here.
 
 **Which tools did you use, and for what?**
 
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
+I used Claude, an AI assistant, to check my English texts, to review my script.js file and to check my page against the rubric. I wrote the first version of my texts myself. Then I asked the AI for corrections and chose which ones to keep. I also used a dictionary to check words I was not sure about.
 
 ---
 
 ## Self-check before you submit
 
-- [ ] Both dictionaries in `script.js` have the same keys.
-- [ ] No `[square brackets]` are left in the page.
-- [ ] My page has no address, no phone number and no ID number.
-- [ ] The language button works in both directions.
-- [ ] All my links open the correct page.
-- [ ] I read my English text out loud and it sounds natural to me.
-- [ ] I can explain my profile in English, without reading it.
+- [ x ] Both dictionaries in `script.js` have the same keys.
+- [ x ] No `[square brackets]` are left in the page.
+- [ x ] My page has no address, no phone number and no ID number.
+- [ x ] The language button works in both directions.
+- [ x ] All my links open the correct page.
+- [ x ] I read my English text out loud and it sounds natural to me.
+- [ x ] I can explain my profile in English, without reading it.
