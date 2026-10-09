@@ -22,20 +22,17 @@ const ES = {
   "nav.skills":    "HABILIDADES",
   "nav.resume":    "FORMACIÓN",
   "nav.portfolio": "PROYECTOS",
-  "nav.contact":   "CONTACTO",
+  
 
-  "hero.role": "Desarrollador Web · Soporte Técnico",
+  "hero.role": "Desarrolladora Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "Estudio ingeniería en sistemas. Me gusta programar y aprender varias cosas nuevas, por eso espero aprender mucho",
+  "about.text":           "Estudio programación web. Me gusta programar y aprender cosas nuevas, busco una práctica para seguir creciendo",
   "about.infoTitle":      "Información",
-  "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "",
-  "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés (B1)",
   "about.labelStatus":    "Disponibilidad",
-  "about.valueStatus":    "Abierto a prácticas",
+  "about.valueStatus":    "Abierta a prácticas",
   "about.interestsTitle": "Intereses",
 
   "interest.1": "CÓDIGO",
@@ -57,7 +54,7 @@ const ES = {
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "Actualmente estoy formándome en programación web, con conocimientos en el desarrollo de páginas y sitios web, desde la estructura y el diseño hasta la lógica de programación.",
-  "edu.2.title": "Técnico Profesional en Programación Web",
+  "edu.2.title": "Programación Web",
   "edu.2.text":  "Durante mi formación aprendí a programar con el framework Laravel, con el que creé y diseñé varias páginas web, fortaleciendo mis habilidades de codificación y desarrollo.",
 
   "exp.1.title": "Práctica en desarrollo web",
@@ -65,8 +62,8 @@ const ES = {
 
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "",
-  "project.1.text":  "",
+  "project.1.title": "Ejercicio de matrices en JavaScript",
+  "project.1.text":  "Ejercicio de práctica hecho con JavaScript para trabajar con matrices: agregar, listar, modificar, eliminar y vaciar datos, y hacer sumas, restas y multiplicaciones. Tecnologías: HTML, CSS, JavaScript. Diseño base proporcionado por el docente",
  
 
   
@@ -89,16 +86,13 @@ const EN = {
   "nav.skills":    "SKILLS",
   "nav.resume":    "RESUME",
   "nav.portfolio": "PROJECTS",
-  "nav.contact":   "CONTACT",
+
 
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "I'm studying systems engineering. I enjoy programming and learning new things, so I hope to learn a lot.",
+  "about.text":           "I'm a web programming student who enjoys coding and learning new tools, I'm looking for an internship to keep growing",
   "about.infoTitle":      "Information",
-  "about.labelLocation":  "Location",
-  "about.valueLocation":  "",
-  "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
   "about.valueLanguages": "Spanish (native) · English (B1)",
   "about.labelStatus":    "Availability",
@@ -124,7 +118,7 @@ const EN = {
 
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "I am studying web programming and learning to build websites.",
-  "edu.2.title": "Professional Technician in Web Programming",
+  "edu.2.title": "Web Programming",
   "edu.2.text":  "During my studies, I built several web pages with the Laravel framework and strengthened my coding skills.",
 
   "exp.1.title": "Web Development Practice",
@@ -132,8 +126,8 @@ const EN = {
   
 
   "portfolio.title": "Projects",
-  "project.1.title": "",
-  "project.1.text":  "",
+  "project.1.title": "JavaScript Matrix Exercise",
+  "project.1.text":  "Practice exercise built with JavaScript to work with matrices: add, list, edit, delete and clear data, and perform sums, subtractions and multiplications. Technologies: HTML, CSS, JavaScript. Base design provided by the instructor",
  
 
 
