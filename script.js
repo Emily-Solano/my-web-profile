@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrolladora Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "Estudio programación web. Me gusta programar y aprender cosas nuevas, busco una práctica para seguir creciendo",
+  "about.text":           "Estudio programación web. Me gusta programar y aprender cosas nuevas. Busco una práctica para seguir creciendo.",
   "about.infoTitle":      "Información",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés (B1)",
@@ -91,7 +91,7 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "I'm a web programming student who enjoys coding and learning new tools, I'm looking for an internship to keep growing",
+  "about.text":           "I'm a web programming student who enjoys coding and learning new tools. I'm looking for an internship to keep growing.",
   "about.infoTitle":      "Information",
   "about.labelLanguages": "Languages",
   "about.valueLanguages": "Spanish (native) · English (B1)",
